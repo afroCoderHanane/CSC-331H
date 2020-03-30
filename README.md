@@ -58,7 +58,7 @@ void list<T>::printerGreater(T item, node<t> * p)
   }
 }
 
-//#
+//#Question 
 int list<T> occur (T item, Node<T>* p)
  {
    if(p==NULL||p->infos =item)
